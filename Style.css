@@ -1,0 +1,56 @@
+#p1 {
+    font-size: 25px;
+    font-family: 'Times New Roman';
+}
+h1 {
+    font-style:oblique;
+    line-height: normal;
+}
+body {
+  background-image: linear-gradient(to right top, #d9e624, #d94f25, #18c126, #75badf, #1593ce);
+  text-align: center;
+}
+#p2 {
+  word-break: normal;
+  text-transform: none;
+  font-size: 25px;
+  font-family: monospace;
+}
+#pf {
+  font-size: 25px;
+  font-family: sans-serif;
+}
+#pfa {
+  text-align: left;
+  font-size: 20px;
+  font-family: fantasy;
+}
+#ppe{
+  font-size: 25px;
+  font-family: sans-serif;
+}
+#ppe1{
+  text-align: left;
+  font-size: 20px;
+  font-family: fantasy;
+}
+.copy_right_footer {
+  
+  color:rgb(17, 15, 15);
+  position: fixed;
+  font-size: 18px;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+  text-shadow: 5px 5px 5px #262b2b;
+}
+#ps{
+  font-size: 25px;
+  font-family: sans-serif;
+}
+#ps1{
+  text-align: left;
+  font-size: 20px;
+  font-family: fantasy;
+}
